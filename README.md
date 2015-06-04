@@ -1,0 +1,2 @@
+# gitdiignore
+pabd
