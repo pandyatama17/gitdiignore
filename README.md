@@ -1,2 +1,2 @@
 # gitdiignore
-pabd
+you sit
